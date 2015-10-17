@@ -1,5 +1,7 @@
 import json
 from cardType import card_type
+from keypointType import keypoint_type, keypointType
+from pprint import pprint
 from os import path
 
 
@@ -34,3 +36,65 @@ class Replay():
                         break
         if hero != None:
             print hero
+
+    def get_last_intro_draw(self):
+        kps = self.keypoints
+        last_mull = -1
+        for i in range(len(kps)):
+            if kps[i]['Type'] == keypoint_type('Mulligan'):
+                last_mull = i
+        if last_mull != -1:
+            return last_mull + 1
+        else:
+            return None
+
+    def get_last_choosing_draw(self):
+        kps = self.keypoints
+        first_mull = -1
+        for i in range(len(kps)):
+            if kps[i]['Type'] == keypoint_type('Mulligan'):
+                first_mull = i
+                break
+        if first_mull != -1:
+            return first_mull - 1
+        else:
+            return None
+
+    def get_cards_kept_by_player(self):
+        cards_drawn = []
+        cards_mulliganed = []
+        kps = self.keypoints
+        for i in range(self.get_last_choosing_draw() + 1):
+            if kps[i]['Type'] == keypoint_type('Draw'):
+                card = None
+                target_id = kps[i]['Id']
+                for d in kps[i]['Data']:
+                    if d['Id'] == target_id and 'CARDTYPE' in d['Tags'] and 'CONTROLLER' in d['Tags'] and (
+                                        d['Tags']['CONTROLLER'] == 2 and d['Tags'][
+                                    'CARDTYPE'] == card_type('MINION') or d['Tags']['CARDTYPE'] == card_type(
+                                "ABILITY")):
+                        card = d['CardId']
+                        break
+                if card != None:
+                    cards_drawn.append(card)
+        for i in range(self.get_last_intro_draw() + 1):
+            if kps[i]['Type'] == keypoint_type('Mulligan'):
+                card = None
+                target_id = kps[i]['Id']
+                for d in kps[i]['Data']:
+                    if d['Id'] == target_id and 'CARDTYPE' in d['Tags'] and 'CONTROLLER' in d['Tags'] and (
+                                        d['Tags']['CONTROLLER'] == 2 and d['Tags'][
+                                    'CARDTYPE'] == card_type('MINION') or d['Tags']['CARDTYPE'] == card_type(
+                                "ABILITY")):
+                        card = d['CardId']
+                        break
+                if card != None:
+                    cards_mulliganed.append(card)
+        cards_kept = [item for item in cards_drawn if item not in cards_mulliganed]
+        return cards_kept, cards_mulliganed
+
+        '''for kp in self.keypoints:
+            if kp['Type']==keypointType['Draw']:
+                for d in kp['Data']
+            elif kp['Type'] == keypointType['Mulligan']:
+                pass'''
