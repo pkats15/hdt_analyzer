@@ -1,0 +1,4527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<DeckStatsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeckStats>
+    <Deck>
+      <DeckId>e5b5aad7-fdbe-4128-8f3b-253aee38ecfa</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Custom Druid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>96d17efd-6667-47b3-ae84-b058688aebb4</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Loatheb Druid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>424e2450-d54a-47dd-abd0-75ee698fa210</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Custom Warlock</Name>
+    </Deck>
+    <Deck>
+      <DeckId>ba7bb08a-57cd-4ef6-8524-9491757d1465</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Custom Druid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>e5b098ef-afde-4777-97ef-6177ad4ff434</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Loatheb Druid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>7123578d-24cf-4561-a827-d31a02356dde</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Custom Warlock</Name>
+    </Deck>
+    <Deck>
+      <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+      <Games>
+        <Game>
+          <GameId>ace5d6f0-042c-4482-a959-65a43769438b</GameId>
+          <HearthStatsId>31901335</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>12</Turns>
+          <StartTime>2015-05-13T21:26:26.43831+03:00</StartTime>
+          <EndTime>2015-05-13T21:34:20.782441+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>tratatatata</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs tratatatata(Rogue) 2134-130515.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>dbae89a9-2b5a-4b84-a8b5-bbacb861d8ea</GameId>
+          <HearthStatsId>31901336</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-05-13T21:35:00.4587103+03:00</StartTime>
+          <EndTime>2015-05-13T21:43:28.1197469+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>deFlip</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs deFlip(Warlock) 2143-130515.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>6f3d00d8-5622-4aaa-9a90-7a173cd5623f</GameId>
+          <HearthStatsId>32503571</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-09-30T19:39:39.1471702+03:00</StartTime>
+          <EndTime>2015-09-30T19:48:56.989077+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Sphinx</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs Sphinx(Druid) 1949-300915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>12</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>d2104e22-fc68-4a74-bf41-dc98eb783c2d</GameId>
+          <HearthStatsId>32505282</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-30T19:49:19.123343+03:00</StartTime>
+          <EndTime>2015-09-30T19:55:11.9095212+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Latinoo</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs Latinoo(Rogue) 1955-300915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>28a05ddf-889c-4597-b390-a33347660433</GameId>
+          <HearthStatsId>32507797</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>0</Turns>
+          <StartTime>2015-09-30T19:55:32.5737031+03:00</StartTime>
+          <EndTime>2015-09-30T20:03:51.4232357+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>UNKNOWN HUMAN PLAYER</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs UNKNOWN HUMAN PLAYER(Warlock) 2004-300915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>edd9e8f8-778b-4530-b505-05fe040e256e</GameId>
+          <HearthStatsId>32817734</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-10-01T19:57:13.8145849+03:00</StartTime>
+          <EndTime>2015-10-01T20:02:00.161963+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>PinkKnight</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs PinkKnight(Mage) 2002-011015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>e04f6953-8e3b-4b11-a64a-cd00e55c6046</GameId>
+          <HearthStatsId>32819813</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-10-01T20:02:31.5057558+03:00</StartTime>
+          <EndTime>2015-10-01T20:08:50.0014045+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Radiskull</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs Radiskull(Warlock) 2009-011015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>20</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>0e74f5cd-f61b-486a-bc51-d398e196f2d7</GameId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-10-04T18:44:05.9136126+03:00</StartTime>
+          <EndTime>2015-10-04T18:50:51.0417846+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>fab</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs fab(Warlock) 1851-041015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>87c2ce9a-78d5-46f2-a78a-423697b344b3</GameId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-10-04T18:51:19.1503924+03:00</StartTime>
+          <EndTime>2015-10-04T18:55:40.0003121+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Helios</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs Helios(Rogue) 1855-041015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>2434a3d0-bad5-4312-929a-5773c685abef</GameId>
+          <HearthStatsId>34452906</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-10-07T14:25:17.6491869+03:00</StartTime>
+          <EndTime>2015-10-07T14:30:51.3302723+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Kelnin</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs Kelnin(Hunter) 1431-071015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>c41fb1e9-f090-44d2-93bd-0a55e0968d8e</GameId>
+          <HearthStatsId>34453661</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-10-07T14:31:16.7097239+03:00</StartTime>
+          <EndTime>2015-10-07T14:34:24.1394443+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>DrStreubel</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs DrStreubel(Shaman) 1434-071015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>ac934ed7-6115-46e7-aa85-c863965cf34b</GameId>
+          <HearthStatsId>34556602</HearthStatsId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-10-07T21:54:19.1972744+03:00</StartTime>
+          <EndTime>2015-10-07T22:02:02.3357644+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>twayz</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs twayz(Hunter) 0302-081015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>e908338f-a17c-46eb-a9e2-8b01b84b304e</GameId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-10-09T15:28:53.9118068+03:00</StartTime>
+          <EndTime>2015-10-09T15:28:57.5480148+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>MrMan</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs MrMan(Priest) 2029-091015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>6ebd84fc-ba2c-44ee-964e-62aa2b6852c4</GameId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-10-09T15:30:52.9886176+03:00</StartTime>
+          <EndTime>2015-10-09T15:30:52.9886176+03:00</EndTime>
+          <Note>Double Combo</Note>
+          <IsClone>false</IsClone>
+          <OpponentName>Some Valeera</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>false</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>474d7556-7735-44c7-97ea-ae015a02afc7</GameId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-10-09T15:31:25.7344906+03:00</StartTime>
+          <EndTime>2015-10-09T15:35:50.8146523+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Oleg</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Druid) vs Oleg(Paladin) 2036-091015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>0717e955-5d4f-4861-839e-a233b6985d5b</DeckId>
+          <DeckName>Wombo Combo</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2782671</HearthStatsDeckVersionId>
+        </Game>
+      </Games>
+      <HearthStatsDeckId />
+      <Name />
+    </Deck>
+    <Deck>
+      <DeckId>0850bdc9-876f-4bca-b2c5-7d2c2c46207a</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Hybrid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+      <Games>
+        <Game>
+          <GameId>e70b428e-8b95-443a-b6f9-45f501a39b3b</GameId>
+          <HearthStatsId>31901386</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-06-01T17:51:31.8890941+03:00</StartTime>
+          <EndTime>2015-06-01T17:56:22.1456959+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>RAGGABAWS</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs RAGGABAWS(Hunter) 1756-010615.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>20</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>15d9139e-4ad2-47b2-9d1c-fb87ea414b2b</GameId>
+          <HearthStatsId>31901387</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-06-01T17:58:23.2646235+03:00</StartTime>
+          <EndTime>2015-06-01T18:03:04.4357055+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>nwnlord</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs nwnlord(Warlock) 1803-010615.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>20</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>df75a75c-7da7-4e89-944d-97c7f81cf512</GameId>
+          <HearthStatsId>31901388</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-06-01T18:03:29.1061166+03:00</StartTime>
+          <EndTime>2015-06-01T18:06:14.3635688+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Floreum</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs Floreum(Mage) 1806-010615.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>20</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>c2a7b7e9-6705-404e-bb66-e7d5da991b13</GameId>
+          <HearthStatsId>31901389</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-06-01T18:06:49.1015557+03:00</StartTime>
+          <EndTime>2015-06-01T18:12:06.1086874+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>anyanyany</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs anyanyany(Mage) 1812-010615.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>d8ed3d20-2172-4014-a915-4c58fe8a1486</GameId>
+          <HearthStatsId>31901390</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-06-01T18:14:04.2624455+03:00</StartTime>
+          <EndTime>2015-06-01T18:18:24.5553334+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>DarKnesS</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs DarKnesS(Hunter) 1818-010615.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>4c3391a7-d720-4399-98a8-bd5e094d29a7</GameId>
+          <HearthStatsId>31901391</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-06-01T18:18:58.7922916+03:00</StartTime>
+          <EndTime>2015-06-01T18:23:34.1550414+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Voidbane</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs Voidbane(Mage) 1823-010615.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>c86a1cbb-da26-471f-91df-90299785f011</GameId>
+          <HearthStatsId>31901363</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-06-01T18:25:39.608217+03:00</StartTime>
+          <EndTime>2015-06-01T18:31:24.1509237+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>FlyingMuppet</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs FlyingMuppet(Druid) 1831-010615.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>5159e721-16d4-4c1e-aaea-fc8d91cff6c5</GameId>
+          <HearthStatsId>31901364</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-06-01T18:31:52.8695663+03:00</StartTime>
+          <EndTime>2015-06-01T18:36:06.6580822+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Mert</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs Mert(Shaman) 1836-010615.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>1fd889c5-3514-4f0d-8222-69e6fc261e3d</GameId>
+          <HearthStatsId>31901365</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-06-01T21:45:34.069049+03:00</StartTime>
+          <EndTime>2015-06-01T21:50:30.6200108+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>DonKing</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs DonKing(Druid) 2150-010615.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>1f219a06-8e09-4158-9a04-24ed40e28aa7</GameId>
+          <HearthStatsId>31901366</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-06-01T21:50:55.1204121+03:00</StartTime>
+          <EndTime>2015-06-01T21:54:38.5261902+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Sigma</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs Sigma(Warrior) 2154-010615.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>333cfa96-e5e3-41be-951f-af5aaa6384f5</GameId>
+          <HearthStatsId>31901367</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-06-01T21:55:05.2977215+03:00</StartTime>
+          <EndTime>2015-06-01T22:00:19.0206654+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>devops</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs devops(Mage) 2200-010615.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>0381313d-66f2-4a55-9bdb-04ef4da8ce64</GameId>
+          <HearthStatsId>31901368</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-06-01T22:54:52.8513475+03:00</StartTime>
+          <EndTime>2015-06-01T22:59:22.4957703+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Horkinger</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs Horkinger(Warlock) 2259-010615.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>30177631-9086-44c8-9c35-738c3a6d8eec</GameId>
+          <HearthStatsId>31901369</HearthStatsId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-06-01T22:59:54.3765938+03:00</StartTime>
+          <EndTime>2015-06-01T23:06:12.2742083+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Barbefly</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Hunter) vs Barbefly(Mage) 2306-010615.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>ff939155-2b91-4468-bc4f-83ca40f56f3b</DeckId>
+          <DeckName>Hybrid</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+      </Games>
+      <HearthStatsDeckId />
+      <Name>Rank 1 Legend NA Protohype's Midrange Hunter</Name>
+    </Deck>
+    <Deck>
+      <DeckId>4fe1ea0b-1443-49e6-83c1-d9eadebafc1b</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Hybrid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>a167b3ce-625c-43d3-b92c-42075c29e1ee</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Hybrid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>7ad610c7-4d21-4b9a-b96c-40b4eb5302be</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Hybrid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>d5ff4f15-7663-40da-9e0d-9781da51a3a4</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Purple Rank #1 Legend Midrange Hunter</Name>
+    </Deck>
+    <Deck>
+      <DeckId>29a17d34-b59c-491a-bc8c-5c3638e5bfed</DeckId>
+      <Games />
+      <HearthStatsDeckId>2596840</HearthStatsDeckId>
+      <Name>Oil Rogue Deck List</Name>
+    </Deck>
+    <Deck>
+      <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+      <Games>
+        <Game>
+          <GameId>862f2c0d-96a7-4ba9-b21c-c491abbb1101</GameId>
+          <HearthStatsId>31901439</HearthStatsId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-08-30T18:18:00.3606373+03:00</StartTime>
+          <EndTime>2015-08-30T18:21:25.6073767+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Olik</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Shaman) vs Olik(Mage) 1821-300815.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>20</Rank>
+          <Region>EU</Region>
+          <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+          <DeckName>Totem hype</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>a4f84c75-2bce-4592-bd2c-fb21ffa0db54</GameId>
+          <HearthStatsId>31901440</HearthStatsId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-08-30T18:22:06.8087333+03:00</StartTime>
+          <EndTime>2015-08-30T18:27:37.0696231+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Waxos</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Shaman) vs Waxos(Warlock) 1827-300815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+          <DeckName>Totem hype</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>2e9db5f4-e952-4e4b-b3ba-8cdd3d99d65e</GameId>
+          <HearthStatsId>31901441</HearthStatsId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-08-30T18:28:00.8239818+03:00</StartTime>
+          <EndTime>2015-08-30T18:36:17.1303689+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Podczas</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Shaman) vs Podczas(Warlock) 1836-300815.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+          <DeckName>Totem hype</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>3fa134dd-38c8-4c76-9272-37a956f6e2d7</GameId>
+          <HearthStatsId>31901442</HearthStatsId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>13</Turns>
+          <StartTime>2015-08-30T18:42:43.6494765+03:00</StartTime>
+          <EndTime>2015-08-30T18:51:11.2595102+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Ispok</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Shaman) vs Ispok(Shaman) 1851-300815.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+          <DeckName>Totem hype</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>5343339a-3928-4f44-b137-620ca528df2a</GameId>
+          <HearthStatsId>31901443</HearthStatsId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-08-30T18:51:45.9424939+03:00</StartTime>
+          <EndTime>2015-08-30T19:00:29.4364361+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Jinx</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Shaman) vs Jinx(Mage) 1900-300815.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+          <DeckName>Totem hype</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>fa74a96c-c8ba-46bb-8f72-ad33835150ca</GameId>
+          <HearthStatsId>31901444</HearthStatsId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>13</Turns>
+          <StartTime>2015-08-30T19:01:00.6942239+03:00</StartTime>
+          <EndTime>2015-08-30T19:12:04.6361992+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>IDF</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Shaman) vs IDF(Mage) 1912-300815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+          <DeckName>Totem hype</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>b9d816ca-a855-4ea4-8541-38312696a807</GameId>
+          <HearthStatsId>31901445</HearthStatsId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-08-30T21:35:36.666897+03:00</StartTime>
+          <EndTime>2015-08-30T21:42:20.6820053+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>L0st0ne</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Shaman) vs L0st0ne(Hunter) 2142-300815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+          <DeckName>Totem hype</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>5cad6c02-9ed0-4c9d-aea5-3fc433298b05</GameId>
+          <HearthStatsId>31901446</HearthStatsId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-08-30T21:45:29.2917932+03:00</StartTime>
+          <EndTime>2015-08-30T21:52:57.0354027+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>BioFrozt</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Shaman) vs BioFrozt(Druid) 2153-300815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>90c14ecb-d8b9-4ec6-b054-9d8f9b91cbdd</DeckId>
+          <DeckName>Totem hype</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+      </Games>
+      <HearthStatsDeckId>2596845</HearthStatsDeckId>
+      <Name>Trump’s Grand Tournament Midrange Shaman</Name>
+    </Deck>
+    <Deck>
+      <DeckId>ba8f3057-6a5f-4b9f-901a-dee845b1f608</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>7f90f312-89cb-46ff-897e-15f5fb752a5d</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+      <Games>
+        <Game>
+          <GameId>f482abed-4436-4913-b5f5-3aab4e3ebdb3</GameId>
+          <HearthStatsId>31901374</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-08-31T01:39:27.5435019+03:00</StartTime>
+          <EndTime>2015-08-31T01:44:47.0297755+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>sasiro</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs sasiro(Paladin) 0144-310815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>0f4997e3-1e09-4ae2-9b30-e592ed356787</GameId>
+          <HearthStatsId>31901375</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-08-31T01:45:12.180214+03:00</StartTime>
+          <EndTime>2015-08-31T01:51:51.9430791+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>RASSO</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs RASSO(Mage) 0152-310815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>ec334620-e9d2-43a1-b493-7f9ae8593eee</GameId>
+          <HearthStatsId>31901376</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-08-31T01:53:49.2467885+03:00</StartTime>
+          <EndTime>2015-08-31T02:00:37.7981563+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Spartan</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Spartan(Shaman) 0201-310815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>0e77419d-3496-4278-84b2-d66dfbbf2f92</GameId>
+          <HearthStatsId>31901377</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-08-31T02:01:41.2017828+03:00</StartTime>
+          <EndTime>2015-08-31T02:06:09.4981285+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>EnterHawtin</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs EnterHawtin(Hunter) 0206-310815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>83517cd0-1585-4b58-9984-2c6c8ad62359</GameId>
+          <HearthStatsId>31901378</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-08-31T02:06:40.1778833+03:00</StartTime>
+          <EndTime>2015-08-31T02:12:58.1565024+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>kakipu</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs kakipu(Shaman) 0213-310815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>13</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>545e3efb-e221-452c-ad1b-485518096a33</GameId>
+          <HearthStatsId>31901379</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-08-31T02:13:21.052812+03:00</StartTime>
+          <EndTime>2015-08-31T02:19:00.6832378+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>BaKu</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs BaKu(Priest) 0219-310815.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>97cd6267-d909-45b0-8ae7-f7a8abe89018</GameId>
+          <HearthStatsId>31901380</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-08-31T02:19:45.3157906+03:00</StartTime>
+          <EndTime>2015-08-31T02:23:07.4473519+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Zlipzinho</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Zlipzinho(Warlock) 0223-310815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>9e56a570-bf45-4103-99aa-e2f67d149c7b</GameId>
+          <HearthStatsId>31901381</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-08-31T12:43:28.3348321+03:00</StartTime>
+          <EndTime>2015-08-31T12:50:43.9067454+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Frozz</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Frozz(Mage) 1250-310815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>d0eab6e6-a6c4-4de2-b16b-3e94b70636f5</GameId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>None</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-08-31T12:51:11.0842999+03:00</StartTime>
+          <EndTime>2015-08-31T12:59:07.9015723+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Gebirges</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>true</WasConceded>
+          <Rank>13</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>fa618d3a-89b1-400c-a948-c24bfd26a5c7</GameId>
+          <HearthStatsId>31901382</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-08-31T13:00:21.484781+03:00</StartTime>
+          <EndTime>2015-08-31T13:04:23.7926402+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Kaliban</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Kaliban(Paladin) 1304-310815.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>13</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>72c6fa6c-48b1-4b3e-b7bb-eb593594716b</GameId>
+          <HearthStatsId>31901454</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-01T18:14:41.9792802+03:00</StartTime>
+          <EndTime>2015-09-01T18:23:04.7990398+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>kick</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs kick(Mage) 1823-010915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>20</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>80cb37f5-8480-418e-b6ba-f402b4c340b5</GameId>
+          <HearthStatsId>31901455</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-09-01T18:23:29.768468+03:00</StartTime>
+          <EndTime>2015-09-01T18:32:13.4324199+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>DSaster</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs DSaster(Priest) 1832-010915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>c4712dcf-a11a-4fd3-a880-e90876eac60b</GameId>
+          <HearthStatsId>31901456</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>12</Turns>
+          <StartTime>2015-09-01T18:32:42.2700693+03:00</StartTime>
+          <EndTime>2015-09-01T18:45:10.2458511+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>TvShank</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs TvShank(Mage) 1845-010915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>e5ec9900-4401-4243-b2cb-a9f95163ada2</GameId>
+          <HearthStatsId>31901457</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-09-01T18:45:42.6737058+03:00</StartTime>
+          <EndTime>2015-09-01T18:56:19.1711114+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Flagel</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Flagel(Warrior) 1856-010915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>dff16a3e-bb5d-4fbb-a2eb-dbf8927a826d</GameId>
+          <HearthStatsId>31901458</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-01T18:58:44.120402+03:00</StartTime>
+          <EndTime>2015-09-01T19:05:07.6113364+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>magicpower</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs magicpower(Hunter) 1905-010915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>e0a294a7-d4ba-4c59-bb0a-34ac10fccc3f</GameId>
+          <HearthStatsId>31901459</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-01T19:20:13.8771719+03:00</StartTime>
+          <EndTime>2015-09-01T19:26:15.3408464+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Xelthion</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Xelthion(Paladin) 1926-010915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>20</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>0e3a54ae-4922-4b99-9568-1372da77a5ed</GameId>
+          <HearthStatsId>31901460</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-01T22:59:34.8476322+03:00</StartTime>
+          <EndTime>2015-09-01T23:03:33.4252781+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Feyerabend</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Feyerabend(Paladin) 2303-010915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>19</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>9172dba7-5b3a-48e9-9ace-0a828bffdc9e</GameId>
+          <HearthStatsId>31901461</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>14</Turns>
+          <StartTime>2015-09-01T23:04:10.6704084+03:00</StartTime>
+          <EndTime>2015-09-01T23:14:54.197216+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Røbocop</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Røbocop(Shaman) 2315-010915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>bdbfe1c8-1584-45e3-af42-97182ee81713</GameId>
+          <HearthStatsId>31901462</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-01T23:15:49.6873899+03:00</StartTime>
+          <EndTime>2015-09-01T23:21:11.5798011+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Bugster</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Bugster(Hunter) 2321-010915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>4c60b485-f4ec-44ba-9154-7232a525cb49</GameId>
+          <HearthStatsId>31901463</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-01T23:21:43.5936321+03:00</StartTime>
+          <EndTime>2015-09-01T23:25:03.1020434+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>AlexAlexAlex</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs AlexAlexAlex(Hunter) 2325-010915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>16e06017-9aa4-4d9a-b4a6-6988e609fc6b</GameId>
+          <HearthStatsId>31901412</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-02T18:24:18.5260763+03:00</StartTime>
+          <EndTime>2015-09-02T18:30:04.4258606+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Actylla</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Actylla(Hunter) 1830-020915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>2996d157-f92a-4a11-a827-86754949e644</GameId>
+          <HearthStatsId>31901413</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-02T18:30:51.7455672+03:00</StartTime>
+          <EndTime>2015-09-02T18:37:13.5264038+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Metalcore</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Metalcore(Paladin) 1837-020915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>5a43af02-e588-4630-b0b8-f38d4d30fbf4</GameId>
+          <HearthStatsId>31901414</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-02T18:37:43.6171249+03:00</StartTime>
+          <EndTime>2015-09-02T18:43:16.4271605+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Hskogan</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Hskogan(Hunter) 1843-020915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>b89272ba-fd1b-42f3-acd2-aaa7e13adbc7</GameId>
+          <HearthStatsId>31901415</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-02T18:43:42.1526319+03:00</StartTime>
+          <EndTime>2015-09-02T18:48:19.2734824+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Xenium</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Xenium(Warlock) 1848-020915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>61078b30-b17e-4699-beb6-733b03b9620a</GameId>
+          <HearthStatsId>31901416</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-02T18:56:32.5426957+03:00</StartTime>
+          <EndTime>2015-09-02T19:02:35.3084448+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Voicecracker</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Voicecracker(Mage) 1902-020915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>e67bcbbb-a391-4454-98e8-0b1e8939997c</GameId>
+          <HearthStatsId>31901417</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-02T19:03:01.2269272+03:00</StartTime>
+          <EndTime>2015-09-02T19:11:04.572573+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Natumi</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Natumi(Paladin) 1911-020915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>a2870ffe-315c-4994-9d5c-445f34f5cd6d</GameId>
+          <HearthStatsId>31901418</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-09-02T19:11:28.8279603+03:00</StartTime>
+          <EndTime>2015-09-02T19:14:36.682705+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>HHeadshot</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs HHeadshot(Hunter) 1914-020915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>924b508d-220e-49fa-883d-8fdfdb021f20</GameId>
+          <HearthStatsId>31901419</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-09-02T19:15:02.6531904+03:00</StartTime>
+          <EndTime>2015-09-02T19:25:10.5589606+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Kedibi</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Kedibi(Warlock) 1925-020915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>e591e721-d161-411b-802a-e2e56dc07c0d</GameId>
+          <HearthStatsId>31901420</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-09-02T19:27:06.1435717+03:00</StartTime>
+          <EndTime>2015-09-02T19:35:06.1435717+03:00</EndTime>
+          <Note />
+          <IsClone>false</IsClone>
+          <OpponentName>Bugster</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>false</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>99c8d50d-0a83-4243-941d-18ee03e0a3d5</GameId>
+          <HearthStatsId>31901421</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-02T19:28:25.8501307+03:00</StartTime>
+          <EndTime>2015-09-02T19:32:25.8501307+03:00</EndTime>
+          <Note />
+          <IsClone>false</IsClone>
+          <OpponentName>Actylla</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>true</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>2b9c8487-7e9f-4c3f-ad86-3b0786d1f192</GameId>
+          <HearthStatsId>31901396</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-09-04T17:49:01.5298824+03:00</StartTime>
+          <EndTime>2015-09-04T17:57:06.5546243+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>ЖизньЗаАйур</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs ЖизньЗаАйур(Priest) 1757-040915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>56861d19-ed5f-4d9c-b335-0f1c5891ff69</GameId>
+          <HearthStatsId>31901397</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-04T17:57:38.2764386+03:00</StartTime>
+          <EndTime>2015-09-04T18:02:50.5643005+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Woldo</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Woldo(Warrior) 1803-040915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>39fc9513-2191-4959-ab83-fb7a2ad8f3ef</GameId>
+          <HearthStatsId>31901398</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-09-04T18:03:18.3398892+03:00</StartTime>
+          <EndTime>2015-09-04T18:06:19.3982451+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Knüppelklaus</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Knüppelklaus(Paladin) 1806-040915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>02d2d2fa-62b1-4581-991f-dc14440624b6</GameId>
+          <HearthStatsId>31901399</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-04T18:06:53.6352033+03:00</StartTime>
+          <EndTime>2015-09-04T18:11:33.0141829+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Sanoshuke</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Sanoshuke(Mage) 1811-040915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>df020c2d-0a92-4cff-a7dd-d4f0474dfd3f</GameId>
+          <HearthStatsId>31901400</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-04T18:12:01.4728106+03:00</StartTime>
+          <EndTime>2015-09-04T18:15:47.6377465+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Nitiflor</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Nitiflor(Priest) 1815-040915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>ede88c12-5297-4c8c-91b6-d22388fe7490</GameId>
+          <HearthStatsId>31901401</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-04T18:16:08.8659607+03:00</StartTime>
+          <EndTime>2015-09-04T18:22:01.3851237+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Novad</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Novad(Paladin) 1822-040915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>04bc4eb3-1b89-4bd8-af03-b4acde448f48</GameId>
+          <HearthStatsId>31901402</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-04T18:22:50.1319118+03:00</StartTime>
+          <EndTime>2015-09-04T18:29:45.1616502+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>PowerCorn</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs PowerCorn(Druid) 1830-040915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>7bb4b57e-ef84-4360-9714-ac6720bb5d0b</GameId>
+          <HearthStatsId>31901403</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-04T18:30:21.4217241+03:00</StartTime>
+          <EndTime>2015-09-04T18:35:59.9460866+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>rOM</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs rOM(Mage) 1836-040915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>dadab2bb-9590-4d60-a42b-921018b05cda</GameId>
+          <HearthStatsId>31901404</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-04T18:36:30.915858+03:00</StartTime>
+          <EndTime>2015-09-04T18:41:26.9787918+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Defibrilator</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Defibrilator(Shaman) 1841-040915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>1b2f3044-3d89-4e5f-8a6c-587736080074</GameId>
+          <HearthStatsId>31901405</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-04T18:42:02.8658444+03:00</StartTime>
+          <EndTime>2015-09-04T18:47:15.9017491+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Dante</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Dante(Hunter) 1847-040915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>3</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>a9014bed-e005-4c63-aea0-021556007095</GameId>
+          <HearthStatsId>31901347</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-07T23:10:51.3871763+03:00</StartTime>
+          <EndTime>2015-09-07T23:15:55.6345783+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>LeHair</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs LeHair(Druid) 2316-070915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>7d79604a-b604-4243-b8ef-d21dbf1ad22b</GameId>
+          <HearthStatsId>31901348</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-07T23:16:27.0323741+03:00</StartTime>
+          <EndTime>2015-09-07T23:24:03.0144548+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Vendingo</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Vendingo(Druid) 2324-070915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>c21691b1-982f-4fb4-8920-2a3013f9a760</GameId>
+          <HearthStatsId>31901349</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-07T23:24:36.5013702+03:00</StartTime>
+          <EndTime>2015-09-07T23:30:26.3803821+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>SetSail4Fail</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs SetSail4Fail(Paladin) 2330-070915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>13</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>977f8352-1440-4ddd-9492-8f02a267f52b</GameId>
+          <HearthStatsId>31901350</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-09-07T23:30:47.0245629+03:00</StartTime>
+          <EndTime>2015-09-07T23:37:40.3052012+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>ltissier</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs ltissier(Hunter) 2337-070915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>ee1b3354-9533-4f66-b845-222545f8a436</GameId>
+          <HearthStatsId>31901424</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-07T23:40:19.2582928+03:00</StartTime>
+          <EndTime>2015-09-07T23:46:12.2524829+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>maxime</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs maxime(Priest) 2346-070915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>ec42a2db-c4e1-41dd-9579-2cdf10066600</GameId>
+          <HearthStatsId>31901425</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-09-07T23:46:38.935009+03:00</StartTime>
+          <EndTime>2015-09-07T23:53:45.2793945+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>MAF</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs MAF(Paladin) 2353-070915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>3a48b9a2-8666-41ef-9610-cd1e6c5bef79</GameId>
+          <HearthStatsId>31901426</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-07T23:54:13.3640009+03:00</StartTime>
+          <EndTime>2015-09-07T23:59:30.7751558+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>BrightHammer</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs BrightHammer(Mage) 2359-070915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>003d0acd-47c4-4f8f-a4a0-a9393ba8f258</GameId>
+          <HearthStatsId>31901427</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>3</Turns>
+          <StartTime>2015-09-07T23:59:58.0807176+03:00</StartTime>
+          <EndTime>2015-09-08T00:01:09.7928193+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Xero</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Xero(Shaman) 0001-080915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>1641f0f7-e175-4dd6-97a8-196df6510793</GameId>
+          <HearthStatsId>31901428</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-08T00:02:05.7920222+03:00</StartTime>
+          <EndTime>2015-09-08T00:07:39.6781194+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>SlashZero</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs SlashZero(Priest) 0007-080915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>a42908cd-6931-47da-9284-4b6d5b3eb7c0</GameId>
+          <HearthStatsId>31901429</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-08T00:08:05.825615+03:00</StartTime>
+          <EndTime>2015-09-08T00:14:30.0285901+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>JumpyLion</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs JumpyLion(Shaman) 0014-080915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>af347374-19d5-474d-a723-9b77a889b2a4</GameId>
+          <HearthStatsId>31901430</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-09-08T17:13:51.6534479+03:00</StartTime>
+          <EndTime>2015-09-08T17:22:59.1917653+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>GreezZ</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs GreezZ(Druid) 1723-080915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>43e0cad3-842f-4fde-8cb7-979d5a7d3b3f</GameId>
+          <HearthStatsId>31901431</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-09-08T17:23:30.2285405+03:00</StartTime>
+          <EndTime>2015-09-08T17:27:18.0565716+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>QuaLiTY</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs QuaLiTY(Hunter) 1727-080915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>2231d567-7252-4ef6-a77e-71095ac32766</GameId>
+          <HearthStatsId>31901432</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-08T17:27:42.8859917+03:00</StartTime>
+          <EndTime>2015-09-08T17:32:29.4823841+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Martino</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Martino(Warrior) 1732-080915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>b0da58eb-1208-4f7c-9d48-cd47b37a2e02</GameId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>None</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-08T17:38:54.6324134+03:00</StartTime>
+          <EndTime>2015-09-08T17:38:58.016607+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>ctopolon</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>c1087429-e568-4cea-8f97-a52541a163c8</GameId>
+          <HearthStatsId>31901433</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-09-08T17:39:26.8182543+03:00</StartTime>
+          <EndTime>2015-09-08T17:47:28.290793+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>kobez11</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs kobez11(Warrior) 1747-080915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>73aee572-c2af-4fa7-bfd6-78981fa3cb74</GameId>
+          <HearthStatsId>31901434</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-08T17:47:52.908201+03:00</StartTime>
+          <EndTime>2015-09-08T17:53:52.1187467+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Wasabe</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Wasabe(Hunter) 1754-080915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>bf0caddc-61de-4e2c-8e39-fae57d367d0b</GameId>
+          <HearthStatsId>31901435</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-09-08T17:54:26.688724+03:00</StartTime>
+          <EndTime>2015-09-08T17:58:28.0155271+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Veliax</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Veliax(Warlock) 1758-080915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>161f2e21-99c8-4d07-88c7-c92182cee2c4</GameId>
+          <HearthStatsId>31901436</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-08T17:58:53.2359696+03:00</StartTime>
+          <EndTime>2015-09-08T18:06:19.9385195+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>theGnome</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs theGnome(Priest) 1806-080915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>8ff65625-1a97-40d3-9200-2a3189cb4cd2</GameId>
+          <HearthStatsId>31901437</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-08T18:06:47.5680999+03:00</StartTime>
+          <EndTime>2015-09-08T18:11:00.0925434+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Devitt</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Devitt(Priest) 1811-080915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>5f779d6b-1b52-4f63-a42a-5d43dcc15f56</GameId>
+          <HearthStatsId>31901467</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-09T13:50:52.7546755+03:00</StartTime>
+          <EndTime>2015-09-09T13:57:06.4490496+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>sella</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs sella(Shaman) 1357-090915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>13</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>49c8f0a7-8b06-40ff-be17-dbd702975206</GameId>
+          <HearthStatsId>31901468</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>13</Turns>
+          <StartTime>2015-09-09T13:57:41.5830591+03:00</StartTime>
+          <EndTime>2015-09-09T14:07:36.8111042+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>FlakJacket</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs FlakJacket(Shaman) 1407-090915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>13</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>c4ae7b64-9120-4dbc-9863-6f7c6bb5f46d</GameId>
+          <HearthStatsId>31901469</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-09-09T14:34:24.3720514+03:00</StartTime>
+          <EndTime>2015-09-09T14:43:55.1536983+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Larpa</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Larpa(Shaman) 1444-090915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>ae6e5ee7-0ef5-4126-b5ba-18438d815daa</GameId>
+          <HearthStatsId>31901470</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-09T14:46:52.1768234+03:00</StartTime>
+          <EndTime>2015-09-09T14:53:48.2896237+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>ADyBaH4uK</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs ADyBaH4uK(Hunter) 1454-090915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>13</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>e7f00641-1f45-4cd5-8410-9bded486edbd</GameId>
+          <HearthStatsId>31901471</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-20T11:32:12.7699923+03:00</StartTime>
+          <EndTime>2015-09-20T11:38:55.2650137+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Minato</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Minato(Paladin) 1139-200915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>4ca8c12a-9623-4950-b677-e3281afd3d26</GameId>
+          <HearthStatsId>31901472</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-20T11:39:22.4705698+03:00</StartTime>
+          <EndTime>2015-09-20T11:48:38.0973498+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Kniekehle</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Kniekehle(Hunter) 1148-200915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>9</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>c8d9831d-2d95-4869-981e-6c6757f67fe8</GameId>
+          <HearthStatsId>31901473</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-20T11:48:59.2815615+03:00</StartTime>
+          <EndTime>2015-09-20T11:57:00.2450711+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Richard</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Richard(Priest) 1157-200915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>a7a45da2-620b-4ea2-8cf2-330951777a9c</GameId>
+          <HearthStatsId>31901474</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-25T20:20:27.4578919+03:00</StartTime>
+          <EndTime>2015-09-25T20:24:39.5663117+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Vildechnaba</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Vildechnaba(Hunter) 2024-250915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>11ab6b35-81a8-42ba-89db-9ef617845ffb</GameId>
+          <HearthStatsId>31901475</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-25T20:38:11.5797562+03:00</StartTime>
+          <EndTime>2015-09-25T20:43:45.7078673+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Fidrik</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Fidrik(Mage) 2043-250915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>12</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>d50afa68-1f2b-40b3-bb21-89c4125d80db</GameId>
+          <HearthStatsId>31901476</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-25T20:44:12.3163892+03:00</StartTime>
+          <EndTime>2015-09-25T20:50:39.8605554+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Knakimax</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Knakimax(Priest) 2050-250915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>1703f877-4a4c-4e86-b81a-df1f2e6cbb3e</GameId>
+          <HearthStatsId>31901477</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-25T20:51:01.2767804+03:00</StartTime>
+          <EndTime>2015-09-25T20:57:12.6700229+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>frantar</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs frantar(Warrior) 2057-250915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>85ef6502-ee52-47ab-9671-1aa0ca5b15f1</GameId>
+          <HearthStatsId>31901478</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-25T20:57:43.0927629+03:00</StartTime>
+          <EndTime>2015-09-25T21:06:56.9854438+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Niceone</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Niceone(Paladin) 2107-250915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>10</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>b4f17932-04b4-4714-85a6-2bd1ba7faa2d</GameId>
+          <HearthStatsId>31901479</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-09-26T20:46:23.459546+03:00</StartTime>
+          <EndTime>2015-09-26T20:53:50.496115+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>WillieFIN</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs WillieFIN(Druid) 0154-270915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+        <Game>
+          <GameId>a5fb1522-829b-4643-83b3-06aba17e37ae</GameId>
+          <HearthStatsId>31901480</HearthStatsId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-26T21:07:47.2939771+03:00</StartTime>
+          <EndTime>2015-09-26T21:14:37.8984624+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Sjek</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Paladin) vs Sjek(Warlock) 0214-270915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>12</Rank>
+          <Region>EU</Region>
+          <DeckId>49a4f007-b423-40f2-bce9-0186fecf66d3</DeckId>
+          <DeckName>Secret Paladin</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId />
+        </Game>
+      </Games>
+      <HearthStatsDeckId />
+      <Name>Rdu’s Grand Tournament Secrets Paladin</Name>
+    </Deck>
+    <Deck>
+      <DeckId>b8a7f87d-ec7d-426d-b0c2-5d0bff225c7b</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>4a24e35a-04c5-4e39-80ca-83307bad3e3b</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>d88611f6-3d85-4182-a4d0-d9f1285a061e</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name />
+    </Deck>
+    <Deck>
+      <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+      <Games>
+        <Game>
+          <GameId>3543bc37-3bbf-4218-b4d8-c0250a1d8d23</GameId>
+          <HearthStatsId>31901341</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-25T20:25:10.0680563+03:00</StartTime>
+          <EndTime>2015-09-25T20:32:04.6227675+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Krij</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Krij(Warrior) 2032-250915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>12</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>e6ba2283-199f-49c0-989b-0f79472285a0</GameId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>None</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-25T20:32:29.5951958+03:00</StartTime>
+          <EndTime>2015-09-25T20:37:43.9561762+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Rayslark</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>false</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>b891bc18-75b4-4d32-b53d-8566eac66708</GameId>
+          <HearthStatsId>31901342</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-26T19:00:26.7300609+03:00</StartTime>
+          <EndTime>2015-09-26T19:08:45.7836051+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>logic</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs logic(Warrior) 1909-260915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>f1df97b5-d731-4197-89e6-c1111cc5b779</GameId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>None</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-26T19:09:21.6246551+03:00</StartTime>
+          <EndTime>2015-09-26T19:13:38.3523391+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Sensen</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>6c88bae2-c54c-4687-a210-e6c74ba88d70</GameId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>None</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-26T20:54:19.7057857+03:00</StartTime>
+          <EndTime>2015-09-26T20:58:44.4079258+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Dubocc</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>13992581-0cb2-4230-9ce7-0c0160a6fbec</GameId>
+          <HearthStatsId>32260103</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-09-29T23:05:31.0796382+03:00</StartTime>
+          <EndTime>2015-09-29T23:11:19.1245453+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>timotlamotte</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs timotlamotte(Priest) 2311-290915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781838</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>9ae33d4a-2b25-400c-b8c0-a7bd93ab00a4</GameId>
+          <HearthStatsId>32260402</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>0</Turns>
+          <StartTime>2015-09-29T23:11:41.1388044+03:00</StartTime>
+          <EndTime>2015-09-29T23:12:12.7796142+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>RobotWorgen</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs RobotWorgen(Warlock) 2312-290915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781838</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>372befc6-3a8a-44fb-a0b7-4ee43c951c35</GameId>
+          <HearthStatsId>32262191</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-29T23:12:36.3499623+03:00</StartTime>
+          <EndTime>2015-09-29T23:18:07.4078977+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>MaxIgor</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs MaxIgor(Mage) 2318-290915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781838</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>5f7a8064-e6f6-481f-a5a1-f3164cee5bbe</GameId>
+          <HearthStatsId>32263882</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-09-29T23:18:32.1133108+03:00</StartTime>
+          <EndTime>2015-09-29T23:23:50.5735257+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>grimmer</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs grimmer(Warrior) 2323-290915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781838</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>4b8a7405-1876-4b93-b6aa-4dc582576471</GameId>
+          <HearthStatsId>32266101</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-09-29T23:24:13.0888135+03:00</StartTime>
+          <EndTime>2015-09-29T23:31:14.3019055+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>GoaDomino</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs GoaDomino(Rogue) 2331-290915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>12</Rank>
+          <Region>EU</Region>
+          <DeckId>50a5185f-ea94-4c82-912a-a80ec980eb36</DeckId>
+          <DeckName>Zemonlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781838</HearthStatsDeckVersionId>
+        </Game>
+      </Games>
+      <HearthStatsDeckId>2596836</HearthStatsDeckId>
+      <Name />
+    </Deck>
+    <Deck>
+      <DeckId>2227c399-d4c2-48b0-a46f-52c31bd564c4</DeckId>
+      <Games>
+        <Game>
+          <GameId>3ba90dc9-9ebb-4ddf-b170-cb4193fdeff1</GameId>
+          <HearthStatsId>31901334</HearthStatsId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-09-26T20:59:17.9198426+03:00</StartTime>
+          <EndTime>2015-09-26T21:03:28.8141929+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Slanec</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warrior) vs Slanec(Paladin) 0203-270915.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>2227c399-d4c2-48b0-a46f-52c31bd564c4</DeckId>
+          <DeckName>Grim Patron</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>1aae5490-8436-40f3-8141-ef1a019058a7</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>None</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-09-26T21:03:51.4234861+03:00</StartTime>
+          <EndTime>2015-09-26T21:07:16.5452184+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>FaCT1ons</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>2227c399-d4c2-48b0-a46f-52c31bd564c4</DeckId>
+          <DeckName>Grim Patron</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>871c261e-c8d7-4cc3-ac86-8e16812f0a7e</GameId>
+          <HearthStatsId>32521987</HearthStatsId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>0</Turns>
+          <StartTime>2015-09-30T20:39:16.9828107+03:00</StartTime>
+          <EndTime>2015-09-30T20:54:42.1467271+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>UNKNOWN HUMAN PLAYER</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warrior) vs UNKNOWN HUMAN PLAYER(Priest) 2054-300915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>12</Rank>
+          <Region>EU</Region>
+          <DeckId>2227c399-d4c2-48b0-a46f-52c31bd564c4</DeckId>
+          <DeckName>Grim Patron</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781844</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>c9f889a3-cabe-4e15-9d8e-b571dd4f5eea</GameId>
+          <HearthStatsId>32524661</HearthStatsId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-09-30T20:55:09.8733129+03:00</StartTime>
+          <EndTime>2015-09-30T21:04:49.7234785+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Madman9</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warrior) vs Madman9(Paladin) 2105-300915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>2227c399-d4c2-48b0-a46f-52c31bd564c4</DeckId>
+          <DeckName>Grim Patron</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781844</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>c519adcb-ac20-428e-a915-ef1d9a0e81f4</GameId>
+          <HearthStatsId>32527238</HearthStatsId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-09-30T21:05:17.3790603+03:00</StartTime>
+          <EndTime>2015-09-30T21:13:49.6893627+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName />
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warrior) vs Korsh(Mage) 2114-300915.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>11</Rank>
+          <Region>EU</Region>
+          <DeckId>2227c399-d4c2-48b0-a46f-52c31bd564c4</DeckId>
+          <DeckName>Grim Patron</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781844</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>8d641e9c-2ccf-4480-b3b3-89a22b53981f</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-10-09T15:36:17.1651595+03:00</StartTime>
+          <EndTime>2015-10-09T15:45:07.9445183+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Draegy</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warrior) vs Draegy(Priest) 2045-091015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>2227c399-d4c2-48b0-a46f-52c31bd564c4</DeckId>
+          <DeckName>Grim Patron</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>2781844</HearthStatsDeckVersionId>
+        </Game>
+      </Games>
+      <HearthStatsDeckId>2596842</HearthStatsDeckId>
+      <Name />
+    </Deck>
+    <Deck>
+      <DeckId>b9862560-534a-4559-be79-29f50432f0c6</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>d94e5100-cf49-4063-a619-e1d8495d2dba</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>6d00d056-8a14-4c5c-b012-b83a1ee95fd3</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>8eb4e799-1fce-4f98-961e-aa5c06607a88</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>29922236-21c7-4d8a-9820-af85b0cf6a9e</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>536099e2-c12d-4128-aa77-a3dbab0ba88c</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>e3b425b7-b0ff-44a5-a0e7-3ddf0e25c092</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>12a6473f-7f18-4788-a909-6034e81dace6</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>0a165859-6030-435c-8e91-21be4ef86e6a</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>6983d130-9017-4893-b9cc-5423fe4b448b</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>3c41fb9c-27f7-4e22-bdd3-ddb0e2c1e5a1</DeckId>
+      <Games />
+      <HearthStatsDeckId>2596835</HearthStatsDeckId>
+      <Name>Hybrid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>9bba760b-4d4f-4018-95e5-e9fbaf1a9d7a</DeckId>
+      <Games />
+      <HearthStatsDeckId>2596837</HearthStatsDeckId>
+      <Name>Wombo Combo</Name>
+    </Deck>
+    <Deck>
+      <DeckId>09a31e1a-bcc6-4324-8a71-198bbccfd736</DeckId>
+      <Games />
+      <HearthStatsDeckId>2596841</HearthStatsDeckId>
+      <Name>Midrange</Name>
+    </Deck>
+    <Deck>
+      <DeckId>77f50b00-2331-48c4-ad29-2815884d5b35</DeckId>
+      <Games />
+      <HearthStatsDeckId>2596844</HearthStatsDeckId>
+      <Name>Secret Paladin</Name>
+    </Deck>
+    <Deck>
+      <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+      <Games>
+        <Game>
+          <GameId>e3f3972e-7cb2-4291-a4ef-ce95d3bded8c</GameId>
+          <HearthStatsId>33998119</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-10-05T21:53:50.3208433+03:00</StartTime>
+          <EndTime>2015-10-05T21:58:00.1921352+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>TheJaeger</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs TheJaeger(Hunter) 2158-051015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+        </Game>
+        <Game>
+          <GameId>bcadda5e-2772-4f4a-bfe7-53183e5984c6</GameId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>4</Turns>
+          <StartTime>2015-10-05T21:58:43.2385973+03:00</StartTime>
+          <EndTime>2015-10-05T22:00:59.4733895+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Cithul</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Cithul(Warlock) 2201-051015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>a4830ab5-5b37-44da-bd8f-d1db37ae696e</GameId>
+          <HearthStatsId>34001636</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>13</Turns>
+          <StartTime>2015-10-05T22:01:35.2874379+03:00</StartTime>
+          <EndTime>2015-10-05T22:10:56.7215501+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>KATRAN</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs KATRAN(Priest) 2211-051015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>0b1f5cd8-9fd0-44ef-9017-36bf182bc558</GameId>
+          <HearthStatsId>34011343</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-10-05T22:38:04.8736751+03:00</StartTime>
+          <EndTime>2015-10-05T22:42:41.3754901+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Murdman</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Murdman(Druid) 2242-051015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>99f310e8-7d2f-4940-a1d3-80e1cf194e88</GameId>
+          <HearthStatsId>34013407</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>0</Turns>
+          <StartTime>2015-10-05T22:43:04.0447867+03:00</StartTime>
+          <EndTime>2015-10-05T22:49:40.908486+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>UNKNOWN HUMAN PLAYER</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs UNKNOWN HUMAN PLAYER(Priest) 2249-051015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>22ce676a-d9dc-4ef8-b16f-efdacb8ea260</GameId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>13</Turns>
+          <StartTime>2015-10-05T23:02:40.779092+03:00</StartTime>
+          <EndTime>2015-10-05T23:10:49.3690378+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Gambit</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Gambit(Priest) 2310-051015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>39e1f4ba-7595-4ed3-bdcc-b6d82e698560</GameId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-10-06T23:49:43.8025392+03:00</StartTime>
+          <EndTime>2015-10-06T23:59:02.3024836+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>b4z</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs b4z(Mage) 2359-061015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>0</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>1c1db743-2067-48ae-80f7-12adb1feb229</GameId>
+          <HearthStatsId>34446708</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-10-07T13:56:16.1915812+03:00</StartTime>
+          <EndTime>2015-10-07T14:01:35.6168513+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Alekskant1</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Alekskant1(Rogue) 1401-071015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>18</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>c7ea7fcf-e6fd-4ebb-8b80-585f9970d02e</GameId>
+          <HearthStatsId>34447564</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-10-07T14:02:01.6113381+03:00</StartTime>
+          <EndTime>2015-10-07T14:05:53.3485927+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Doxos</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Doxos(Warlock) 1406-071015.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>17</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>c99bbb6f-3928-4350-a449-d3e47fe6e46f</GameId>
+          <HearthStatsId>34450539</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>16</Turns>
+          <StartTime>2015-10-07T14:06:24.4653724+03:00</StartTime>
+          <EndTime>2015-10-07T14:19:52.6535982+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Serendipity</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Serendipity(Paladin) 1420-071015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>b3831062-496c-45ac-b197-1196b94d6475</GameId>
+          <HearthStatsId>34451533</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-10-07T14:20:31.3908138+03:00</StartTime>
+          <EndTime>2015-10-07T14:24:43.2712205+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Mepa</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Mepa(Paladin) 1424-071015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>16</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>2c4b02c1-d40d-49ab-86a3-f171fcddebc8</GameId>
+          <HearthStatsId>34989725</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2015-10-09T15:45:56.3922894+03:00</StartTime>
+          <EndTime>2015-10-09T15:50:56.6444628+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>flylyncz</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs flylyncz(Druid) 2051-091015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>5db4bab6-2673-4b8b-a639-d39cf875a4b0</GameId>
+          <HearthStatsId>34991431</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-10-09T15:51:15.9375663+03:00</StartTime>
+          <EndTime>2015-10-09T15:58:18.4707338+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Mystique</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Mystique(Paladin) 2058-091015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>204a3284-a74c-4ee9-88a6-ffdd619c1a67</GameId>
+          <HearthStatsId>34992983</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2015-10-09T15:58:39.173918+03:00</StartTime>
+          <EndTime>2015-10-09T16:04:55.0724181+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>BossZlaton</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs BossZlaton(Hunter) 2105-091015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>15</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>841fb0e7-6378-4cdb-88ec-4e4bf3a0c990</GameId>
+          <HearthStatsId>34996920</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>18</Turns>
+          <StartTime>2015-10-09T16:05:16.1676247+03:00</StartTime>
+          <EndTime>2015-10-09T16:20:50.684076+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>PupsiBaer</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs PupsiBaer(Warrior) 2121-091015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>0e3afd2a-c160-47fb-8341-26c42133104c</GameId>
+          <HearthStatsId>35436515</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>12</Turns>
+          <StartTime>2015-10-11T13:04:01.6245282+03:00</StartTime>
+          <EndTime>2015-10-11T13:13:07.9907785+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>DoDoing</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs DoDoing(Paladin) 1313-111015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3018705</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>a54aa2c8-19a9-4210-b56a-46d852335905</GameId>
+          <HearthStatsId>35542479</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>16</Turns>
+          <StartTime>2015-10-11T19:29:42.6303484+03:00</StartTime>
+          <EndTime>2015-10-11T19:40:04.4249131+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Mytix</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Mytix(Priest) 1940-111015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3178146</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>5349b1ee-6c25-40bd-90ee-9bbfa61925c8</GameId>
+          <HearthStatsId>35863287</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2015-10-12T21:38:31.928033+03:00</StartTime>
+          <EndTime>2015-10-12T21:43:39.0155974+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>AlCaPwn</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <WasConceded>false</WasConceded>
+          <Rank>13</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3178146</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>606f45eb-3b5a-4207-bcd8-11a45e6d4fe0</GameId>
+          <HearthStatsId>35864442</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>5</Turns>
+          <StartTime>2015-10-12T21:44:02.7669559+03:00</StartTime>
+          <EndTime>2015-10-12T21:47:29.057755+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>mag</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs mag(Warlock) 2147-121015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3178146</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>37c096c2-bd59-44a0-9ef6-f3150d61baae</GameId>
+          <HearthStatsId>35867723</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2015-10-12T21:47:51.7030503+03:00</StartTime>
+          <EndTime>2015-10-12T21:58:04.285088+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>Chrisibisi</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs Chrisibisi(Mage) 2158-121015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3178146</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>446408ab-5cf1-463f-994d-b6a8bc3d982b</GameId>
+          <HearthStatsId>35869979</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2015-10-12T21:58:29.6245373+03:00</StartTime>
+          <EndTime>2015-10-12T22:05:29.5275544+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>omegared</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs omegared(Hunter) 2205-121015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3178146</HearthStatsDeckVersionId>
+        </Game>
+        <Game>
+          <GameId>200a186b-7815-4605-bda9-05440a2014c7</GameId>
+          <HearthStatsId>35872332</HearthStatsId>
+          <PlayerHero>Warlock</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2015-10-12T22:05:51.8398306+03:00</StartTime>
+          <EndTime>2015-10-12T22:13:12.2980233+03:00</EndTime>
+          <IsClone>false</IsClone>
+          <PlayerName>NightRaven</PlayerName>
+          <OpponentName>draven</OpponentName>
+          <VerifiedHeroes>true</VerifiedHeroes>
+          <ReplayFile>NightRaven(Warlock) vs draven(Mage) 2213-121015.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>14</Rank>
+          <Region>EU</Region>
+          <DeckId>495ef780-e936-4544-a0cb-15b28955c0e4</DeckId>
+          <DeckName>Demon Handlock</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HearthStatsDeckVersionId>3178146</HearthStatsDeckVersionId>
+        </Game>
+      </Games>
+      <HearthStatsDeckId>2802572</HearthStatsDeckId>
+      <Name />
+    </Deck>
+    <Deck>
+      <DeckId>c095053d-3937-45a4-92cc-f35b5cc9b6f1</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>a4296abb-3e08-4d18-afd1-cd1626e9e614</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>24f63821-4cf7-429b-90dc-a279080c49ed</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>c9c9e963-ba4a-447b-936c-0fe9781ac5a4</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>9fc4afdd-4e29-4fcc-b9ea-5ea3cc8f443c</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>7ed79f69-b1ac-4744-9a98-c64b4bfcf52e</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>b94c785a-1768-4540-906e-f9ba0fcc410d</DeckId>
+      <Games />
+      <HearthStatsDeckId>2952601</HearthStatsDeckId>
+      <Name>MalyDruid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>5793db31-bd90-4486-9fa1-95cee743aa61</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>41117ce5-c9f8-4020-bc46-5ca99d8def98</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>b0afb096-a200-4873-8301-9fd245b67b8b</DeckId>
+      <Games />
+      <HearthStatsDeckId>3127998</HearthStatsDeckId>
+      <Name />
+    </Deck>
+    <Deck>
+      <DeckId>5b3a94f9-4f5c-444c-bc57-17703228e11c</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>6863df01-0853-465c-b62b-8212e8ccf231</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>ca308e8e-c26c-4f1c-bee5-dee666e2cac7</DeckId>
+      <Games />
+      <HearthStatsDeckId />
+      <Name>Use no deck</Name>
+    </Deck>
+  </DeckStats>
+</DeckStatsList>

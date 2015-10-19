@@ -1,5 +1,6 @@
 from os import path
 from replay import Replay
+import replay as replay_tools
 from pprint import pprint
 from database import DataBase
 
@@ -11,12 +12,14 @@ if __name__ == '__main__':
     # Config:
     files_folder = path.join(path.dirname(path.abspath(__file__)), '..', 'files')
     replay_file = path.join(files_folder, 'replay.json')
+    deck_file = path.join(files_folder, 'DeckStats.xml')
     databse_file = path.join(files_folder, 'database.json')
     replay = None
 
     # Run
     database = DataBase(databse_file)
     replay = Replay(replay_file)
+    replay_tools.find_deck_games('Demon Handlock',deck_file)
     print('Your Hero: ' + database.get_card_name(replay.get_player_hero()))
     l = []
     lz = []

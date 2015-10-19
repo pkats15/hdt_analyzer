@@ -4,7 +4,7 @@ from cardType import card_type
 from keypointType import keypoint_type, keypointType
 from pprint import pprint
 from os import path
-
+import xmltodict
 
 # import hdt_analyzer as hdt
 class Replay():
@@ -100,3 +100,15 @@ class Replay():
                 for d in kp['Data']
             elif kp['Type'] == keypointType['Mulligan']:
                 pass'''
+
+def find_deck_games(deck_name, deck_file):
+    deck_xml = open(deck_file)
+    deck_stats = xmltodict.parse(deck_xml)
+    deck_xml.close()
+    files = []
+    for g in deck_stats['DeckStatsList']['DeckStats']['Deck']:
+        if g['Games'] != None:
+            for game in g['Games']['Game']:
+                if 'DeckName' in game and 'ReplayFile' in game and game['DeckName'] == deck_name:
+                    files.append(game['ReplayFile'])
+    pprint(files)
