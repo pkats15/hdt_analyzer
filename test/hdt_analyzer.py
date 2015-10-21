@@ -3,30 +3,29 @@ from replay import Replay
 import replay as replay_tools
 from pprint import pprint
 from database import DataBase
+import file_manager
+import time
 
-# TODO Find about 2way import
-# TODO Bind ids to card names
-# TODO Check results with HDT
+#TODO Add stats to mulligans (winrate, percentages)
 
+# Config:
+database = DataBase(file_manager.databse_file)
+
+def read_mulligans(deck_name):
+        for f in file_manager.find_deck_games(deck_name):
+            if file_manager.unzip_file(f):
+                replay = Replay(file_manager.replay_file)
+                l = []
+                lz = []
+                kept, mulliganed, drawn = replay.get_cards_kept_by_player()
+                for i in kept:
+                    l.append(database.get_card_name(i))
+                print('Kept: ' + ', '.join(l))
+                for i in mulliganed:
+                    lz.append(database.get_card_name(i))
+                print('Mulliganed: ' + ', '.join(lz))
+# Run
 if __name__ == '__main__':
-    # Config:
-    files_folder = path.join(path.dirname(path.abspath(__file__)), '..', 'files')
-    replay_file = path.join(files_folder, 'replay.json')
-    deck_file = path.join(files_folder, 'DeckStats.xml')
-    databse_file = path.join(files_folder, 'database.json')
-    replay = None
-
-    # Run
-    database = DataBase(databse_file)
-    replay = Replay(replay_file)
-    replay_tools.find_deck_games('Demon Handlock',deck_file)
-    print('Your Hero: ' + database.get_card_name(replay.get_player_hero()))
-    l = []
-    lz = []
-    kept, mulliganed = replay.get_cards_kept_by_player()
-    for i in kept:
-        l.append(database.get_card_name(i))
-    print('Kept: ' + ', '.join(l))
-    for i in mulliganed:
-        lz.append(database.get_card_name(i))
-    print('Mulliganed: ' + ', '.join(lz))
+    t = time.time()
+    read_mulligans('Demon Handlock')
+    print 'Time spent:', (str(time.time() - t)+ ' secs')

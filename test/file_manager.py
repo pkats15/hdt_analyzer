@@ -1,6 +1,8 @@
 from os import path, listdir, remove
-import xmltodict
 import zipfile
+from pprint import pprint
+
+import xmltodict
 
 files_folder = path.join(path.dirname(path.abspath(__file__)), '..', 'files')
 input_folder = path.join(files_folder, 'input')
@@ -10,7 +12,7 @@ deck_file = path.join(input_folder, 'DeckStats.xml')
 databse_file = path.join(files_folder, 'database.json')
 
 
-def find_deck_games(deck_name, deck_file):
+def find_deck_games(deck_name):
     deck_xml = open(deck_file)
     deck_stats = xmltodict.parse(deck_xml)
     deck_xml.close()
@@ -25,6 +27,9 @@ def find_deck_games(deck_name, deck_file):
 def unzip_file(file_name):
     for fn in listdir(temp_folder):
         remove(path.join(temp_folder, fn))
-    zip_file = zipfile.ZipFile(path.join(input_folder, file_name))
-    zip_file.extract('replay.json', path=temp_folder)
-    zip_file.close()
+    if path.exists(path.join(input_folder, file_name)):
+        zip_file = zipfile.ZipFile(path.join(input_folder, file_name))
+        zip_file.extract('replay.json', path=temp_folder)
+        zip_file.close()
+        return True
+    else: return False
