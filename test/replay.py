@@ -97,9 +97,3 @@ class Replay():
                     cards_mulliganed.append(card)
         cards_kept = [item for item in cards_drawn if item not in cards_mulliganed]
         return cards_kept, cards_mulliganed, cards_drawn
-
-        '''for kp in self.keypoints:
-            if kp['Type']==keypointType['Draw']:
-                for d in kp['Data']
-            elif kp['Type'] == keypointType['Mulligan']:
-                pass'''
