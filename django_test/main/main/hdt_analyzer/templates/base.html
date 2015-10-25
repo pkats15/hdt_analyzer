@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load staticfiles %}
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <link rel="stylesheet" href="{% static 'base/css/bootstrap.min.css' %}">
+    <script src="{% static 'base/js/bootstrap.min.js' %}"></script>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+{% block content %}{% endblock %}
+</body>
+</html>
