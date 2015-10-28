@@ -23,3 +23,6 @@ urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', views.index, name='index'),
 ]
+
+if settings.DEBUG:
+    urlpatterns += [url(r'^hi', views.hi, name='hi')]
