@@ -9,7 +9,7 @@ input_folder = path.join(files_folder, 'input')
 temp_folder = path.join(files_folder, 'temp')
 replay_file = path.join(files_folder, 'temp', 'replay.json')
 deck_file = path.join(input_folder, 'DeckStats.xml')
-databse_file = path.join(files_folder, 'database.json')
+database_file = path.join(files_folder, 'database.json')
 
 
 def find_deck_games(deck_name):

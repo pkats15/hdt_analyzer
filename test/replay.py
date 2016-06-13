@@ -7,6 +7,8 @@ from os import path
 import xmltodict
 
 # import hdt_analyzer as hdt
+
+
 class Replay():
     the_coin = 'GAME_005'
 
@@ -34,7 +36,7 @@ class Replay():
             for d in kp['Data']:
                 if "CONTROLLER" in d['Tags'].keys() and "CARDTYPE" in d['Tags'].keys():
                     if d['Tags']['CONTROLLER'] == self.player_id and d['Tags']['CARDTYPE'] == card_type('HERO') and d[
-                        'CardId'] != None:
+                            'CardId'] != None:
                         hero = d['CardId']
                         return hero
         return None
@@ -51,15 +53,15 @@ class Replay():
             return last_draw
         else:
             return None
-
+    #Test change last_mull
     def get_last_intro_draw(self):
         kps = self.keypoints
         last_mull = -1
         for i in range(len(kps)):
             if kps[i]['Type'] == keypoint_type('Mulligan'):
-                last_mull = i
+                last_mull = i-1
         if last_mull != -1:
-            return last_mull + 1
+            return last_mull
         else:
             return None
 
@@ -67,33 +69,49 @@ class Replay():
         cards_drawn = []
         cards_mulliganed = []
         kps = self.keypoints
-        for i in range(self.get_last_choosing_draw() + 1):
-            if kps[i]['Type'] == keypoint_type('Draw'):
-                card = None
-                target_id = kps[i]['Id']
-                for d in kps[i]['Data']:
-                    if d['Id'] == target_id and 'CARDTYPE' in d['Tags'] and 'CONTROLLER' in d['Tags'] and (
-                                        d['Tags']['CONTROLLER'] == self.player_id and (d['Tags'][
-                                                                                           'CARDTYPE'] == card_type(
-                                    'MINION') or d['Tags']['CARDTYPE'] == card_type(
-                                    "INVALID")) and d['CardId'] != Replay.the_coin):
-                        card = d['CardId']
-                        break
-                if card != None:
-                    cards_drawn.append(card)
-        for i in range(self.get_last_intro_draw() + 1):
-            if kps[i]['Type'] == keypoint_type('Mulligan'):
-                card = None
-                target_id = kps[i]['Id']
-                for d in kps[i]['Data']:
-                    if d['Id'] == target_id and 'CARDTYPE' in d['Tags'] and 'CONTROLLER' in d['Tags'] and (
-                                    d['Tags']['CONTROLLER'] == self.player_id and (d['Tags'][
-                                                                                       'CARDTYPE'] == card_type(
+        # TODO Fix draw
+        if self.get_last_choosing_draw() != None and self.get_last_intro_draw() != None:
+            for i in range(self.get_last_choosing_draw() + 1):
+                if kps[i]['Type'] == keypoint_type('Draw'):
+                    card = None
+                    target_id = kps[i]['Id']
+                    for d in kps[i]['Data']:
+                        if d['Id'] == target_id and 'CARDTYPE' in d['Tags'] and 'CONTROLLER' in d['Tags'] and (
+                            d['Tags']['CONTROLLER'] == self.player_id and (d['Tags'][
+                                'CARDTYPE'] == card_type(
+                                'MINION') or d['Tags']['CARDTYPE'] == card_type(
+                                "INVALID")) and d['CardId'] != Replay.the_coin):
+                            card = d['CardId']
+                            break
+                    if card != None:
+                        cards_drawn.append(card)
+            for i in range(self.get_last_intro_draw() + 1):
+                if kps[i]['Type'] == keypoint_type('Mulligan'):
+                    card = None
+                    target_id = kps[i]['Id']
+                    for d in kps[i]['Data']:
+                        if d['Id'] == target_id and 'CARDTYPE' in d['Tags'] and 'CONTROLLER' in d['Tags'] and (
+                            d['Tags']['CONTROLLER'] == self.player_id and (d['Tags'][
+                                'CARDTYPE'] == card_type(
                                 'MINION') or d['Tags']['CARDTYPE'] == card_type(
                                 "INVALID"))):
-                        card = d['CardId']
-                        break
-                if card != None:
-                    cards_mulliganed.append(card)
-        cards_kept = [item for item in cards_drawn if item not in cards_mulliganed]
-        return cards_kept, cards_mulliganed, cards_drawn
+                            card = d['CardId']
+                            break
+                    if card != None:
+                        cards_mulliganed.append(card)
+            cards_kept = [
+                item for item in cards_drawn if item not in cards_mulliganed]
+            return cards_kept, cards_mulliganed, cards_drawn
+        else:
+            return None,None,None
+
+    def game_won(self):
+        kps = self.keypoints
+        size = len(self.keypoints)
+        status = kps[size-1]['Type']
+        if status == keypoint_type('Victory'):
+            return True
+        elif status == keypoint_type('Defeat'):
+            return False
+        else:
+            return None

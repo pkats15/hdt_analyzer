@@ -11,8 +11,8 @@ class DataBase(object):
 
     def get_card_name(self, card_id):
         l = []
-        for v in self.database.values():
-            l.extend(v)
+        for v in self.database:
+            l.append(v)
         for item in l:
             if item['id'] == card_id:
                 return item['name']
